@@ -1,0 +1,15 @@
+D:\RiderProjects\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.exe
+D:\RiderProjects\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.deps.json
+D:\RiderProjects\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.runtimeconfig.json
+D:\RiderProjects\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.dll
+D:\RiderProjects\UnitTesting\UnitTesting\bin\Debug\net6.0\UnitTesting.pdb
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.csproj.AssemblyReference.cache
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.AssemblyInfoInputs.cache
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.AssemblyInfo.cs
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.csproj.CoreCompileInputs.cache
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.dll
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\refint\UnitTesting.dll
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.pdb
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\UnitTesting.genruntimeconfig.cache
+D:\RiderProjects\UnitTesting\UnitTesting\obj\Debug\net6.0\ref\UnitTesting.dll

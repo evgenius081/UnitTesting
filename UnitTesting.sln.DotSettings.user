@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7c5ff3c_002D9eac_002D470c_002Db7ce_002D5078e2bddcb6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GameCharacterRepositoryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests.FindNotExisting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests.FindExisting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests.DeleteNotExisting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests.DeleteExisting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests.SaveFailed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests.SaveSuccessful&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0090E94-E519-4AAD-93D2-06B45483C1B6::net6.0::GameCharacterTests.GameCharacterControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
